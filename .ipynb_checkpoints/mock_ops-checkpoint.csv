@@ -1,0 +1,8 @@
+Date,Zone,Shift,Throughput,Efficiency,Downtime,Machine_ID
+2026-07-01,A,Morning,320,92,5,M001
+2026-07-02,A,Evening,310,90,7,M002
+2026-07-03,B,Morning,295,88,10,M003
+2026-07-04,B,Evening,280,85,12,M004
+2026-07-05,C,Morning,330,94,4,M005
+2026-07-06,C,Evening,300,89,8,M006
+2026-07-07,A,Morning,315,91,6,M001
